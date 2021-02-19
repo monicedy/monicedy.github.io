@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 date: 2021-02-18
 title: "树莓派安装UbuntuServer20.04"
